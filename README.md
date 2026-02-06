@@ -15,12 +15,12 @@
    - 将 `helloagents/Codex CLI/skills/helloagents` 目录拷贝到 `~/.codex/skills` 内，**Mac用户** 直接执行 `cp -R "helloagents/Codex CLI/skills/helloagents" ~/.codex/skills/helloagents`
 
 
-验证一下，随便找个临时的目录，比如 `tmp` , 打开终端，进入到 `tmp` 目录内，执行 `codex`，它会给出两个选项，第一个是是否把这个目录的所有权限交给codex，第二个是每次都要申请，建议选一；
+验证一下，随便找个临时的目录，比如 `tmp` , 打开终端，进入到 `tmp` 目录内，执行 `codex`，它会给出两个选项，第一个是否把这个目录的所有权限交给codex，第二个每次都要申请，建议选一；
 
 执行 `$helloagents ` 回车，有 `【HelloAGENTS】- 技能已激活` 输出表示成功，然后你就可以写需求了。下面有些快捷键需要注意:
 
 - `Shift + Enter` 换行
-- `Enter` 发生
+- `Enter` 发送
 - `ctrl + v` 粘贴图片
 - `?` 查看一些功能快捷键
 
